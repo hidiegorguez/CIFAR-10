@@ -1,14 +1,38 @@
-# Clasificación de Imágenes con el Conjunto de Datos CIFAR-10
+# CIFAR-10 Image Classification
 
-## Autor
+**A machine learning approach to image classification using the CIFAR-10 dataset, which includes 32x32 pixel color images across 10 distinct object categories.**
+
+## Author
 Diego Rodríguez
 
-## Descripción
-Este cuaderno presenta un enfoque para la clasificación de imágenes utilizando el conjunto de datos CIFAR-10, popular en aprendizaje automático y visión por computadora. Incluye imágenes en color de 32x32 píxeles en 10 clases distintas, cada una representando diferentes categorías de objetos.
+## Project Overview
 
-## Contenido del Cuaderno
-- **Descripción del Problema:** Introducción al conjunto de datos CIFAR-10 y sus características.
-- **Librerías Utilizadas:** Muestra las librerías necesarias para ejecutar el cuaderno.
-- **Preprocesamiento y Análisis de Datos:** Cómo cargar, preprocesar y explorar el conjunto de datos.
-- **Modelado y Entrenamiento:** Construcción y entrenamiento del modelo de clasificación de imágenes.
-- **Evaluación y Resultados:** Métodos para evaluar el modelo y analizar los resultados.
+This Jupyter Notebook project tackles the challenge of classifying images from the CIFAR-10 dataset. This dataset is a staple in the machine learning community for benchmarking image recognition and computer vision algorithms.
+
+## Contents of the Notebook
+
+- **Description**: Introduces the CIFAR-10 dataset and its characteristics.
+- **Libraries**: Showcases the necessary libraries required to run the notebook.
+- **Data**: Details the steps to load, preprocess, and explore the dataset.
+- **Data Augmentation**: Discusses methods to augment the dataset to improve model robustness.
+- **Modeling and Training**: Constructs and trains the model for image classification.
+- **Testing**: Explains the procedures for evaluating the model and analyzing the outcomes.
+- **Predictions**: Demonstrates how the model makes predictions on new data.
+
+## Getting Started
+
+1. Clone the repository to your local environment.
+2. Ensure you have Python and the necessary libraries installed.
+3. Execute the notebook to train the model and evaluate its performance.
+
+## Contribute
+
+This project is open to contributions. Suggestions for improvements, bug reports, and enhancements are all welcome.
+
+## Please Note
+
+The project is detailed in Spanish, and it's a working progress toward a robust image classification system.
+
+## Connect
+
+If you have any questions or are interested in collaborating on this project or similar endeavors, feel free to reach out to me.
